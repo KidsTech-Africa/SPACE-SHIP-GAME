@@ -1,15 +1,9 @@
 # SPACE-SHIP-GAME
 
+What is Scratch
 
-Original Author: Hair by Chas
-Education Level: Preschool and Kindergarten, Elementary School, Middle School, High School, College and University, Professional Development, Other
-Content Types: Activity, Curriculum, Lesson Plan, Sample Scratch Project, Tutorial, Website
-Curricular Areas: Computer Science, Engineering, Science, Technology, Other
-Keywords: beginner, game, introduction, intermediate, getting started
-In these tutorials, kids learn some of the basic concepts of Scratch, as they build a space shuttle mission game. Step by step, the tutorials take kids through the process of building the game. The tutorials are intended for beginners as well as more advanced learners.
-
+Scratch is a free object-oriented software development kit (SDK) that allows children age 8-16 to create animations, interactive stories, games and music without needing to know a specific programming language. Scratch, which consists of a script, paint and sound editor, is maintained by the Lifelong Kindergarten group at the MIT Media Lab and features an online community to encourage collaboration among young programmers.
  
-
 Here's the game description:
 
 Mission:  You are the Commander Of Space Shuttle Mission STS-2020 to Space Station Freedom. You have to dock the Shuttle to the Space Station. To dock, you have to rotate the Shuttle to 90 degrees and touch the docking light.   While working outside the Shuttle, one of your crew's Manned Maneuvering Unit (MMU) fails to work and he is drifting out into space.  An Alien spaceship appears and is trying to capture your crew member.
